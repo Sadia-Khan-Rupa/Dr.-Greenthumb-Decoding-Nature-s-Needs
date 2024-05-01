@@ -9,3 +9,7 @@ This dataset is recreated using offline augmentation from the original dataset. 
 ## enable GPU support in tensorflow on MACOS
 Read this linkedIn Artcle
 [GPU_Support](https://www.linkedin.com/pulse/how-enable-gpu-support-tensorflow-pytorch-macos-michael-hannecke-ocoye/)
+
+## Image Classification using CNN
+Reda this article
+[Image classification](https://datagen.tech/guides/image-classification/image-classification-using-cnn/)
