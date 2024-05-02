@@ -16,3 +16,4 @@ Reda this article
 
 # dep learning article
 https://www.projectpro.io/article/learn-deep-learning/725
+https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial
