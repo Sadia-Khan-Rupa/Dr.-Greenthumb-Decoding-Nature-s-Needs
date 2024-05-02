@@ -16,5 +16,7 @@ Reda this article
 
 # dep learning article
 [How to Learn Deep Learning from Scratch?](https://www.projectpro.io/article/learn-deep-learning/725)
+
 [What is Deep Learning? A Tutorial for Beginners](https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial)
+
 [Convolutional Neural Networks (CNN) with TensorFlow Tutorial](https://www.datacamp.com/tutorial/cnn-tensorflow-python)
