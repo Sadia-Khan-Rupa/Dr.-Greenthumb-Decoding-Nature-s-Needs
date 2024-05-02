@@ -15,5 +15,6 @@ Reda this article
 [Image classification](https://datagen.tech/guides/image-classification/image-classification-using-cnn/)
 
 # dep learning article
-[Project_Pro](https://www.projectpro.io/article/learn-deep-learning/725)
-[Data Camp](https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial)
+[How to Learn Deep Learning from Scratch?](https://www.projectpro.io/article/learn-deep-learning/725)
+[What is Deep Learning? A Tutorial for Beginners](https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial)
+[Convolutional Neural Networks (CNN) with TensorFlow Tutorial](https://www.datacamp.com/tutorial/cnn-tensorflow-python)
