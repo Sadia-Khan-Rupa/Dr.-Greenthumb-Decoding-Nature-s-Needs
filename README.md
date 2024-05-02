@@ -13,3 +13,6 @@ Read this linkedIn Artcle
 ## Image Classification using CNN
 Reda this article
 [Image classification](https://datagen.tech/guides/image-classification/image-classification-using-cnn/)
+
+# dep learning article
+https://www.projectpro.io/article/learn-deep-learning/725
