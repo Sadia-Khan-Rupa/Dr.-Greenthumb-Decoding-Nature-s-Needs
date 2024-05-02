@@ -15,5 +15,5 @@ Reda this article
 [Image classification](https://datagen.tech/guides/image-classification/image-classification-using-cnn/)
 
 # dep learning article
-https://www.projectpro.io/article/learn-deep-learning/725
-https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial
+[Project_Pro](https://www.projectpro.io/article/learn-deep-learning/725)
+[Data Camp](https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial)
