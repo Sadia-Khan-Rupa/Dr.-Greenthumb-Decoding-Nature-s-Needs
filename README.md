@@ -20,3 +20,8 @@ Reda this article
 [What is Deep Learning? A Tutorial for Beginners](https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial)
 
 [Convolutional Neural Networks (CNN) with TensorFlow Tutorial](https://www.datacamp.com/tutorial/cnn-tensorflow-python)
+
+# Youtube Tutorial
+[Build a Deep CNN Image Classifier with ANY Images](https://www.youtube.com/watch?v=jztwpsIzEGc)
+[Github Project for this tutorial](https://github.com/nicknochnack/ImageClassification)
+
