@@ -23,5 +23,6 @@ Reda this article
 
 # Youtube Tutorial
 [Build a Deep CNN Image Classifier with ANY Images](https://www.youtube.com/watch?v=jztwpsIzEGc)
+
 [Github Project for this tutorial](https://github.com/nicknochnack/ImageClassification)
 
