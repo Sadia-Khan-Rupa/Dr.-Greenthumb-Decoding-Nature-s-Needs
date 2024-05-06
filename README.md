@@ -13,3 +13,16 @@ Read this linkedIn Artcle
 ## Image Classification using CNN
 Reda this article
 [Image classification](https://datagen.tech/guides/image-classification/image-classification-using-cnn/)
+
+# dep learning article
+[How to Learn Deep Learning from Scratch?](https://www.projectpro.io/article/learn-deep-learning/725)
+
+[What is Deep Learning? A Tutorial for Beginners](https://www.datacamp.com/tutorial/tutorial-deep-learning-tutorial)
+
+[Convolutional Neural Networks (CNN) with TensorFlow Tutorial](https://www.datacamp.com/tutorial/cnn-tensorflow-python)
+
+# Youtube Tutorial
+[Build a Deep CNN Image Classifier with ANY Images](https://www.youtube.com/watch?v=jztwpsIzEGc)
+
+[Github Project for this tutorial](https://github.com/nicknochnack/ImageClassification)
+
